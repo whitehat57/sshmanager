@@ -14,17 +14,17 @@ Sebuah script Bash untuk mengelola koneksi SSH dengan antarmuka CLI yang mudah d
 ## Cara Instalasi
 
 1. Salin script ke perangkat Termux Anda:
-   ```bash
+   ```
    curl -o manajer-ssh.sh https://raw.githubusercontent.com/username/repo/main/manajer-ssh.sh
    ```
 
 2. Berikan izin eksekusi:
-   ```bash
+   ```
    chmod +x manajer-ssh.sh
    ```
 
 3. Jalankan script:
-   ```bash
+   ```
    ./manajer-ssh.sh
    ```
 
